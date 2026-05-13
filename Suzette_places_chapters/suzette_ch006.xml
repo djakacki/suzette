@@ -522,7 +522,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/suzette/master/Suzette_places_chapters/suzette_ch006.xml?place_annotation_20260423101432818",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-04-23T14:14:32.818Z",
-	"dcterms:modified": "2026-04-23T14:14:32.818Z",
+	"dcterms:modified": "2026-04-23T14:14:43.110Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
