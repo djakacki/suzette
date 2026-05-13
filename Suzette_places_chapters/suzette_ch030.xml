@@ -3320,10 +3320,8 @@
 					type="page" n="106"/>
 				<head>30. — Vive le blé de France ! </head>
 				<div type="récit">
-					<p>Pendant les trois jours qui suivirent, le père, <persName type="fictif"
-							key="jacques">Jacques</persName>, <persName type="fictif" key="suzette"
-							>Suzette</persName>, ne s’entretinrent que de beaux et bons travaux à
-						faire. <persName type="fictif" key="jacques">Jacques</persName> voulait être
+					<p>Pendant les trois jours qui suivirent, le père, Jacques, Suzette, ne s’entretinrent que de beaux et bons travaux à
+						faire. Jacques voulait être
 						renseigné sur la situation exacte du petit bien, sur ses charges*<note
 							type="annotation">Des Charges. Les dépenses qu'on est obligé de
 							faire.</note>, ses ressources*<note type="annotation">Ressources.
@@ -3360,8 +3358,7 @@
 						que le plus faible rendement de nos plus mauvaises terres ; mais c'est un
 						blé qui, n'ayant presque rien coûté, écrase le
 						nôtre sur nos marchés.</p>
-					<p> — Et c'est de la culture, cela ! s'écria <persName type="fictif"
-							key="jacques">Jacques</persName> avec mépris.</p>
+					<p> — Et c'est de la culture, cela ! s'écria Jacques avec mépris.</p>
 					<p>— Non ; mais c'est une culture qui tue la nôtre.</p>
 					<p>— Parce que la nôtre se laisse tuer, se décourage au lieu de lutter par les
 						soins, la science, les méthodes *<note type="annotation">Méthode. Procédés
@@ -3399,12 +3396,11 @@
 					<list>
 						<item>— Quel fut l'objet des entretiens de la famille pendant les trois
 							jours suivants ? </item>
-						<item>— Quelle était l'opinion de <persName type="fictif" key="m_dumay">M.
-								Dumay</persName> sur les améliorations proposées par <persName
-								type="fictif" key="jacques">Jacques</persName> ? </item>
+						<item>— Quelle était l'opinion de M.
+								Dumay sur les améliorations proposées par Jacques ? </item>
 						<item>— Quelles objections faisait-il sur la culture du
 							blé ? </item>
-						<item>— <persName type="fictif" key="suzette">Suzette</persName>
+						<item>— Suzette
 							n'avait-elle pas lu quelques détails sur la semaille et la récolte du
 							blé en <placeName corresp="suzpl0009"
 								key="United States of America"
@@ -3412,7 +3408,7 @@
 							(<placeName corresp="suzpl0009"
 								key="United States of America"
 								ref="http://www.wikidata.org/entity/Q30">États-Unis</placeName>) ? </item>
-						<item>— A quoi <persName type="fictif" key="jacques">Jacques</persName>
+						<item>— A quoi Jacques
 							attribuait-il l'infériorité de la production du
 							blé en <placeName>France</placeName> ?
 						</item>
@@ -3445,7 +3441,7 @@
 									key="L’Isthme de Panama"
 									ref="http://www.wikidata.org/entity/Q17358976"
 									corresp="suzpl0351">l'isthme de Panama</placeName>, à travers
-								lequel <persName type="historique">M. de Lesseps</persName> a
+								lequel M. de Lesseps a
 								entrepris de creuser un canal pour le passage des navires, comme il
 								l'a déjà fait pour <placeName corresp="suzpl0352"
 									key="L’Isthme de Suez"
@@ -3463,8 +3459,8 @@
 							<p>Le <placeName key="North America"
 										ref="http://dbpedia.org/resource/North_America">continent
 										américain</placeName> fut découvert par
-									<persName ref="http://www.wikidata.org/entity/Q7322">Christophe
-									Colomb</persName>, navigateur génois né à <placeName
+									Christophe
+									Colomb, navigateur génois né à <placeName
 									corresp="suzpl0105" key="Calvi"
 									ref="http://www.wikidata.org/entity/Q202439">Calvi</placeName>,
 								en <placeName corresp="suzpl0028" key="Corsica"
@@ -3477,38 +3473,23 @@
 								de faire ce voyage, et il sollicita de toutes parts les moyens de
 								l'accomplir. Son courage fut égal à la force de son esprit, car il
 								eut à combattre tous les préjugés. Gênes le traita de visionnaire,
-										<persName key="Henry VII of England"
-										ref="http://www.wikidata.org/entity/Q675493"
-										ana="britannique" role="roi">Henri
-								VII</persName>, roi d'Angleterre, n'écouta pas le frère
-								de <persName type="historique">Colomb</persName> ; lui-même essuya
-								un refus de <persName type="historique"
-									ref="https://www.wikidata.org/wiki/Q217637">Jean II</persName>,
+										Henri
+								VII, roi d'Angleterre, n'écouta pas le frère
+								de Colomb ; lui-même essuya
+								un refus de Jean II,
 								roi de <placeName>Portugal</placeName>. Il ne pouvait s'adresser à
 								la <placeName>France</placeName>, dont la marine était toujours
 								négligée. L'empereur d'<placeName>Allemagne</placeName> n'avait ni
-								flotte, ni ports, ni argent. <persName
-									ref="https://www.wikidata.org/wiki/Q7322" key="Christoph Colomb"
-									>Colomb</persName> n'espéra qu'en la cour
+								flotte, ni ports, ni argent. Colomb n'espéra qu'en la cour
 									d'<placeName>Espagne</placeName>. Après huit ans de
-								sollicitations, la reine <persName
-									ref="https://www.wikidata.org/wiki/Q45859" ana="espagnole"
-									key="Isabella I de Castile" role="reine">Isabelle</persName> et
-								le roi <persName type="historique"><persName
-										key="Ferdinand II of Aragon"
-										ref="http://www.wikidata.org/entity/Q12860"
-										>Ferdinand</persName></persName> consentiront à  lui prêter
+								sollicitations, la reine Isabelle et
+								le roi Ferdinand consentiront à  lui prêter
 								leur appui ; mais la cour d'<placeName key="Spain"
 										ref="http://www.wikidata.org/entity/Q29"
 									>Espagne</placeName> était pauvre ; il fallut que le
-								prieur <persName type="historique"
-									ref="https://www.wikidata.org/wiki/Q5868869">Pérez</persName> et
-								deux négociants, nommés <persName
-									ref="https://www.wikidata.org/wiki/Q3388890"
-									key="Penzone brothers">Penzone</persName>, avançassent 17,000
-								ducats pour faire l'armement. <persName
-									ref="https://www.wikidata.org/wiki/Q7322" key="Christoph Colomb"
-									>Colomb</persName> partit enfin de <placeName
+								prieur Pérez et
+								deux négociants, nommés Penzone, avançassent 17,000
+								ducats pour faire l'armement. Colomb partit enfin de <placeName
 										key="Palos de la Frontera"
 										ref="http://www.wikidata.org/entity/Q622030"
 										>Palos</placeName>, en  <placeName
@@ -3525,8 +3506,7 @@
 										<placeName key="Guanahani"
 										ref="http://www.wikidata.org/entity/Q1144797"
 										>Guanahain</placeName> par les indigènes ;
-									<persName ref="https://www.wikidata.org/wiki/Q7322"
-									key="Christoph Colomb">Colomb</persName> lui donna le nom de
+									Colomb lui donna le nom de
 										<placeName key="San Salvador Island"
 										ref="http://www.wikidata.org/entity/Q31508221"
 										>San-Salvador</placeName>. Il visita ensuite les
@@ -3543,9 +3523,7 @@
 										ref="http://www.wikidata.org/entity/Q25277"
 										>Saint-Domingue</placeName>.</p>
 							<p> C’est une erreur de penser que le nom
-								d'<placeName  corresp="suzpl0791" ref="https://www.wikidata.org/wiki/Q828" key="Americas">Amérique</placeName> vient d'<persName
-									ref="https://www.wikidata.org/wiki/Q47674"
-									key="Albertino Vespucci">Albertino Vespucci</persName>,
+								d'<placeName  corresp="suzpl0791" ref="https://www.wikidata.org/wiki/Q828" key="Americas">Amérique</placeName> vient d'Albertino Vespucci,
 								navigateur <orgName>italien</orgName> ; les indigènes de ce
 								continent le désignaient sous ce nom même dès la première période de
 								l'arrivée des <orgName>Européens</orgName>.</p>
